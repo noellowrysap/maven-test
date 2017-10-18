@@ -1,0 +1,35 @@
+Users\Training\Desktop\Courses\Jenkins\Course 7\0703 junit Testing\jUnit Testing
+   │
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.jdt.core
+   │   └org.eclipse.m2e.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[jenkins]
+   │   │   │               │
+   │   │   │               └MessageSource
+   │   │   └[resources]
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       │   │
+   │       │   └[com]
+   │       │       │
+   │       │       └[oreilly]
+   │       │           │
+   │       │           └[jenkins]
+   │       │               │
+   │       │               └MessageSourceTest
+   │       └[resources]
+   ├
+   ├
+   └pom
